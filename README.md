@@ -1,2 +1,2 @@
 # JavaScript-Projects
-This houses diffrent Javacript Projects
+This houses diffrent JavaScript Projects
